@@ -108,7 +108,13 @@ return msg;
 1. Change the Size to 18x6 
 2. Change the X axis to only display the last minutes data.
 3. Change interpolate to bezier
-4. 
-
+4. Click done to save the chart configuration
+5. Click deploy to save the application and run it
+6. Click on the dashboard tab 
+7. Clck on the little screen with an arrow to display the dashboard
 
 ![Screenshot](screenshots/nodeRed016.png)
+
+Congratuations you should now have a real time chart displaying your random data. Next we can look at collecting data from a sensor via the sigfox LPWAN network and displaying that instead.
+
+![Screenshot](screenshots/nodeRed017.png)
