@@ -1,6 +1,8 @@
 # Node-RED-Simple-Example
 
-- Nodes can be dragged from the toolbar on the left onto the graph paper in the middle where they can then be used. Nodes can be connected together by dragging the connection points on them from one node to another. Nodes configuration screens are opend by double cicking on them. Lets try these things.
+Nodes can be dragged from the toolbar on the left onto the graph paper in the middle where they can then be used. Nodes can be connected together by dragging the connection points on them from one node to another. Node configuration screens are opened by double cicking on them. 
+
+Lets try!
 
 1. Drag an inject node from the toolbar onto the working area.
 2. Drag a debug node from the tollbar onto the working area.
@@ -11,7 +13,7 @@
 
 ![Screenshot](screenshots/nodeRed001.png)
 
-- OK we are now going to try something a little more complicated we are going to get the inject node to automatically inject a time stamp every second so we dont have to keep pressing the button.
+OK we are now going to try something a little more complicated we are going to get the inject node to automatically inject a time stamp every second so we dont have to keep pressing the button.
 
 1. Double click on the timestamp inject node to open its configuration screen.
 2. Select Inject on or after 0.1 seconds this starts the inject node as soon as we deploy the application.
